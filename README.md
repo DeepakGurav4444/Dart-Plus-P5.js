@@ -1,6 +1,11 @@
 # testapp
 
 A new Flutter application.
+This application includes my various small projects like 
+1.Mobile Number Verification by Firebase.
+2.P5.js library with dart in app.
+3.Motion detection of the phone.
+
 
 ## Getting Started
 
